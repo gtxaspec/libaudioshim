@@ -1,0 +1,5 @@
+GLIBCXX_3.4.15 {
+    global:
+        _ZNSt8__detail15_List_node_base7_M_hookEPS0_;
+        _ZNSt8__detail15_List_node_base9_M_unhookEv;
+};
